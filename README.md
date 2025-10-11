@@ -1,4 +1,10 @@
-## Hi there 👋
+![doelssd](img/github-header-banner.png)
+## 👋 Hi, I’m Abd Khalik Al-Fath Salsada  
+💻 Mathematics graduate turned Full-Stack Developer  
+💼 Dreaming in code, executing with precision.
+🌱 Always learning, always building.
+🧭 From numbers to networks — one line of code at a time.
+
 
 <!--
 **Doelssd/Doelssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pronouns: Agam, Doel, Alik
